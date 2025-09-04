@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there Im Alberto Serrano👋
+- 🌱 I’m currently a Computer Engineering student at SDSU
+- 👀 I’m interested in Web design, Machine learning, and Computer and Data networks
+- 💞️ I’m looking to work on any project that will help me to build experience in the field
+- 
 <!--
 **albertoserr18/albertoserr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
